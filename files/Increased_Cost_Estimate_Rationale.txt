@@ -1,0 +1,1 @@
+Given the increased budget to $20,000 per month, I think it would be allocated to ensure the availability of the systems. So, I cloned the entire stack to another region as a stand by region.  Just in case there's an outage in the entire region, the site can still run on another region. 

@@ -1,0 +1,4 @@
+To reduce the monthly cost to $6,500, I reduced the compute power and memory to handle the social media daily active users.  Given the financial concerns, there's going to be a performance hit to the site but it will still be available to handle the daily operations. The changes are as follows: 
+1. Web servers are reduced from max 5 instances to 4
+2. App servers are reduced from max 5 instances to 4
+3. Reduced the size of the RDS database from 192 GB RAM to 128 GB RAM. 
